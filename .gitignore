@@ -1,0 +1,36 @@
+# СЕКРЕТЫ И КЛЮЧИ
+credentials.json
+*.key
+*.pem
+
+# ВИРТУАЛЬНОЕ ОКРУЖЕНИЕ
+venv/
+.venv/
+env/
+
+# ПАПКА CURSOR/VS CODE
+.vscode/
+.cursor/
+.streamlit/
+
+# СИСТЕМНЫЕ ФАЙЛЫ
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# IDE ФАЙЛЫ
+.idea/
+*.swp
+*.swo
+*~
+
+# ЛОГИ
+*.log
+logs/
+
+# Ngrok конфиги
+.ngrok2/
+ngrok.yml
+
+.env.development
