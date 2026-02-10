@@ -68,8 +68,7 @@
 ## 🖥️ Демонстрация
 
 ![Описание файла](https://drive.google.com/uc?export=view&id=1OCE3l4lKgMQYujeYJ8lR8FzeCh9sIh__)
-<div align="center">
-  <img src="https://via.placeholder.com/300x600/0088cc/ffffff?text=Telegram+Bot+Demo" alt="Telegram Bot Demo" width="300">
+<div 
   <p><em>Стартовое меню бота с кнопками «Быстрая запись» и «Консультация»</em></p>
 </div>
 
